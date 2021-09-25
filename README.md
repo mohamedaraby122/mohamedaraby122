@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohamed Araby
 - 👀 I’m interested in Mobile Apps, Games, VR, AR
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
+- 📫 Reach me at:
           WhatsApp: +201099057109
           Email: mohamedaraby1296@gmail.com
 
