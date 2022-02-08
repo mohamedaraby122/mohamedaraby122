@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohamed Araby
 - 👀 I’m interested in Mobile Apps, Games, VR, AR
 - 📫 Reach me at:
-- WhatsApp: +201099057109
-- Email: mohamedaraby1296@gmail.com
+-      WhatsApp: +201099057109
+-      Email: mohamedaraby1296@gmail.com
 
 <!---
 mohamedaraby122/mohamedaraby122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
