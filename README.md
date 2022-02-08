@@ -1,8 +1,9 @@
  <p align="center"><img src="https://github.com/mohamedaraby122/CodeForces-ProblemsSolutions/blob/master/araby.png" width="350" title="Mohamed Araby"> </p>
- 
+  <p align="center">
 - 👋 Hi, I’m Mohamed Abdulrhman Araby
 - 👀 I’m interested in Mobile Apps, Games, VR, AR
 - 📫 Reach me at:
+ </p>
 - WhatsApp:
 -       +201099057109
 - Email:
