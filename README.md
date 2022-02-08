@@ -10,9 +10,10 @@
 -       https://www.linkedin.com/in/mohamed-araby/
 - Youtube:
 -       https://www.youtube.com/channel/UCauNq9n97S6H997rezGhNIQ
+-       
  <p align="center">
- <img src="https://github.com/mohamedaraby122/CodeForces-ProblemsSolutions/blob/master/flutter.png" width="350" title="Mohamed Araby"> 
- <img src="https://github.com/mohamedaraby122/CodeForces-ProblemsSolutions/blob/master/unity.png" width="350" title="Mohamed Araby"> 
+ <img src="https://github.com/mohamedaraby122/CodeForces-ProblemsSolutions/blob/master/flutter.png" width="350" height="350" title="Mohamed Araby"> 
+ <img src="https://github.com/mohamedaraby122/CodeForces-ProblemsSolutions/blob/master/unity.png" width="350" height="350" title="Mohamed Araby"> 
 </p>
 <!---
 mohamedaraby122/mohamedaraby122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
