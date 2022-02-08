@@ -5,6 +5,8 @@
 -       +201099057109
 - Email:
 -       mohamedaraby1296@gmail.com
+- Linkedin:
+-       https://www.linkedin.com/in/mohamed-araby/
 
 <!---
 mohamedaraby122/mohamedaraby122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
